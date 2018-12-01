@@ -4,14 +4,14 @@
     <mirror>
       <id>Nexus</id>
       <name>Nexus Public Mirror</name>
-      <url>http://nexus3.gpte-hw-cicd.svc.cluster.local:8081/repository/all-maven-public/</url>
+      <url>http://nexus3.gpte-hw-cicd.svc.cluster.local:8081/repository/maven-all-public/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
   <servers>
     <server>
       <id>nexus</id>
-      <username>gpte</username>
+      <username>admin</username>
       <password>redhat</password>
     </server>
   </servers>
