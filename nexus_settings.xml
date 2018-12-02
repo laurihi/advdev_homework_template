@@ -22,7 +22,7 @@
     </server>
     <server>
       <id>mitzi</id>
-      <username>gpte</username>
+      <username>admin</username>
       <password>redhat</password>
     </server>
   </servers>
